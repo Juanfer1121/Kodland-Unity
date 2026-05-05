@@ -1,1 +1,2 @@
-mi primer sincronización con github
+mi primer sincronización con GitHub
+este proyecto será para mi primer juego
