@@ -1,1 +1,2 @@
 mi primer sincronización con github
+en este proyecto se hará mi juego de aventura interesante 
